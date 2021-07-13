@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theodoretsai
+- 👋 蔡雨廷 Theodore Ts'ai
 
 - 📫 yuting.cai@mail.polimi.it
 
