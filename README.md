@@ -1,6 +1,6 @@
 - 👋 蔡雨廷 Theodore Ts'ai
 
-📫 work theodore.cai@yeahmobi.com - school yuting.cai@mail.polimi.it - personal yut1996@gmail.com
+- 📫 Work: theodore.cai@yeahmobi.com / School: yuting.cai@mail.polimi.it / Personal: yut1996@gmail.com
 
 <!---
 theodoretsai/theodoretsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
