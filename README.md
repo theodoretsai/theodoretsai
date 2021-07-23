@@ -10,6 +10,9 @@
 - ##   ✔️ JDBC 
 - #### ✔️ JDBC Working Demo
 - ##   🟡 Spring Framework
+- ###  🟡 Spring Core
+- ###  🟡 SpringBoot
+- ###  🟡 SpringMVC 
 - #### ✔️ Dependency Injection
 - #### ✔️ Inversion of Control
 - #### ❌ Spring JDBC Template
