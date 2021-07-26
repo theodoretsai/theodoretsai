@@ -2,6 +2,9 @@
 
 - ### 📫 Work: theodore.cai@yeahmobi.com / School: yuting.cai@mail.polimi.it / Personal: yut1996@gmail.com
 
+
+- ## ✔️ Done 🟡 In Progress ❌ Unstarted
+- ##  - ![#f03c15](Updated since last week) `#f03c15`
 - ## Learning progress:
 - ##   ✔️ SQL
 - #### ✔️ MySQL
@@ -15,7 +18,7 @@
 - ###  🟡 SpringMVC 
 - #### ✔️ Dependency Injection 
 - #### ✔️ Inversion of Control
-- #### ✔️ Spring JDBC Template [Updated]
+- #### ✔️ Spring JDBC Template 
 - #### ❌ Concepts of Aspect Orienrted Programming
 - ##   🟡 Spring Boot
 - #### ✔️ Spring Web App Working Demo
