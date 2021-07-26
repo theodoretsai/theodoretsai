@@ -3,8 +3,7 @@
 - ### 📫 Work: theodore.cai@yeahmobi.com / School: yuting.cai@mail.polimi.it / Personal: yut1996@gmail.com
 
 
- ## ✔️ Done 🟡 In Progress ❌ Unstarted
- ## <font color="green"> Updated since last week </font>
+ ## ✔️ Done 🟡 In Progress ❌ Unstarted <font color="green"> Updated since last week </font>
  ## Learning progress:
 - ##   ✔️ SQL
 - #### ✔️ MySQL
