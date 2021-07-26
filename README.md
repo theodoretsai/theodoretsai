@@ -25,6 +25,8 @@
 - #### ✔️ Connecting Web App to mySQL Database with JPA
 - #### ❌ Add GET, POST, PUT, DELETE to Demo
   ##   🟡 MyBatis ⬆️ 
+- #### ✔️ Working demo connecting to database with MyBatis
+- #### ✔️
 - #### 🟡 Using MyBatis to connect to Database in Demo ⬆️
   ##   ❌ ctripcorp Apollo
   ##   MISC
