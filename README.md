@@ -10,12 +10,12 @@
 - ##   ✔️ JDBC 
 - #### ✔️ JDBC Working Demo
 - ##   🟡 Spring Framework
-- ###  🟡 Spring Core
+- ###  🟡 SpringCore
 - ###  🟡 SpringBoot
 - ###  🟡 SpringMVC 
-- #### ✔️ Dependency Injection
+- #### ✔️ Dependency Injection 
 - #### ✔️ Inversion of Control
-- #### ❌ Spring JDBC Template
+- #### ✔️ Spring JDBC Template [Updated]
 - #### ❌ Concepts of Aspect Orienrted Programming
 - ##   🟡 Spring Boot
 - #### ✔️ Spring Web App Working Demo
@@ -24,6 +24,8 @@
 - ##   ❌ MyBatis
 - #### ❌ Using MyBatis to connect to Database in Demo
 - ##   ❌ ctripcorp Apollo
+- ##   MISC
+- #### 🟡 DAO Pattern [Updated]
 <!---
 theodoretsai/theodoretsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
