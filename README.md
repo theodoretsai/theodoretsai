@@ -4,7 +4,7 @@
 
 
 - ## ✔️ Done 🟡 In Progress ❌ Unstarted
-- ##  - ![#f03c15](Updated since last week) `#f03c15`
+- ## <style>H2{color:DarkOrange;}</style>
 - ## Learning progress:
 - ##   ✔️ SQL
 - #### ✔️ MySQL
