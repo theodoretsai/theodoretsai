@@ -3,7 +3,7 @@
 - ### 📫 Work: theodore.cai@yeahmobi.com / School: yuting.cai@mail.polimi.it / Personal: yut1996@gmail.com
 
 
-  ## ✔️ Done 🟡 In Progress ❌ Unstarted <font color="green"> Updated since last week </font>
+  ## ✔️ Done 🟡 In Progress ❌ Unstarted ⬆️ Updated since last week 
   ## Learning progress:
   ##   ✔️ SQL
 - #### ✔️ MySQL
@@ -17,17 +17,17 @@
 - ###  🟡 SpringMVC 
 - #### ✔️ Dependency Injection 
 - #### ✔️ Inversion of Control
-- #### ✔️ Spring JDBC Template 
+- #### ✔️ Spring JDBC Template ⬆️
 - #### ❌ Concepts of Aspect Orienrted Programming
 - ##   🟡 Spring Boot
 - #### ✔️ Spring Web App Working Demo
 - #### ✔️ Connecting Web App to mySQL Database with JPA
 - #### ❌ Add GET, POST, PUT, DELETE to Demo
-  ##   ❌ MyBatis
+  ##   ❌ MyBatis 
 - #### ❌ Using MyBatis to connect to Database in Demo
   ##   ❌ ctripcorp Apollo
   ##   MISC
-- #### 🟡 DAO Pattern [Updated]
+- #### 🟡 DAO Pattern ⬆️
 <!---
 theodoretsai/theodoretsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
