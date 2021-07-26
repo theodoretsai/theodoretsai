@@ -24,8 +24,8 @@
 - #### ✔️ Spring Web App Working Demo
 - #### ✔️ Connecting Web App to mySQL Database with JPA
 - #### ❌ Add GET, POST, PUT, DELETE to Demo
-  ##   ❌ MyBatis 
-- #### ❌ Using MyBatis to connect to Database in Demo
+  ##   🟡 MyBatis ⬆️ 
+- #### 🟡 Using MyBatis to connect to Database in Demo ⬆️
   ##   ❌ ctripcorp Apollo
   ##   MISC
 - #### 🟡 DAO Pattern ⬆️
