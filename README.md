@@ -4,7 +4,7 @@
 
 
 - ## ✔️ Done 🟡 In Progress ❌ Unstarted
-- ## <font color="green"> Some green text </font>
+- ## <font color="green"> Updated since last week </font>
 - ## Learning progress:
 - ##   ✔️ SQL
 - #### ✔️ MySQL
