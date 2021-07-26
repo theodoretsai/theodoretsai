@@ -26,7 +26,8 @@
 - #### ❌ Add GET, POST, PUT, DELETE to Demo
   ##   🟡 MyBatis ⬆️ 
 - #### ✔️ Working demo connecting to database with MyBatis
-- #### ✔️
+- #### ✔️ Annotation Mapping
+- #### ❌ XML Mapping
 - #### 🟡 Using MyBatis to connect to Database in Demo ⬆️
   ##   ❌ ctripcorp Apollo
   ##   MISC
