@@ -4,7 +4,7 @@
 
 
 - ## ✔️ Done 🟡 In Progress ❌ Unstarted
-- ## <style>H2{color:DarkOrange;}</style>
+- ## <font color="green"> Some green text </font>
 - ## Learning progress:
 - ##   ✔️ SQL
 - #### ✔️ MySQL
