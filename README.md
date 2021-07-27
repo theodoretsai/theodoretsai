@@ -19,8 +19,8 @@
 - #### ✔️ Inversion of Control
 - #### ✔️ Spring JDBC Template ⬆️
 - #### ✔️ Working demo with JDBC Template ⬆️
-- #### ✔️ Concepts of Aspect Orienrted Programming
-- #### ✔️ SpringAOP
+- #### ✔️ Concepts of Aspect Orienrted Programming ⬆️
+- #### ✔️ SpringAOP ⬆️
 - ##   🟡 Spring Boot
 - #### ✔️ Spring Web App Working Demo
 - #### ✔️ Connecting Web App to mySQL Database with JPA
