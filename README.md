@@ -19,16 +19,16 @@
 - #### ✔️ Inversion of Control
 - #### ✔️ Spring JDBC Template ⬆️
 - #### ✔️ Working demo with JDBC Template ⬆️
-- #### ❌ Concepts of Aspect Orienrted Programming
+- #### ✔️ Concepts of Aspect Orienrted Programming
+- #### ✔️ SpringAOP
 - ##   🟡 Spring Boot
 - #### ✔️ Spring Web App Working Demo
 - #### ✔️ Connecting Web App to mySQL Database with JPA
-- #### ❌ Add GET, POST, PUT, DELETE to Demo
   ##   🟡 MyBatis ⬆️ 
-- #### ✔️ Working demo connecting to database with MyBatis
+- #### ✔️ Working demo connecting to database with MyBatis ⬆️
 - #### ✔️ Annotation Mapping
+- #### ❌ Add GET, POST, PUT, DELETE to Demo
 - #### ❌ XML Mapping
-- #### 🟡 Using MyBatis to connect to Database in Demo ⬆️
   ##   ❌ ctripcorp Apollo
   ##   MISC
 - #### 🟡 DAO Pattern ⬆️
