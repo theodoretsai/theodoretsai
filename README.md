@@ -11,27 +11,28 @@
 - #### ✔️ Navicat
   ##   ✔️ JDBC 
 - #### ✔️ JDBC Working Demo
-  ##   🟡 Spring Framework
-- ###  🟡 SpringCore
-- ###  🟡 SpringBoot
-- ###  🟡 SpringMVC 
+  ##   ✔️ Spring Framework ⬆️
+- ###  ✔️ SpringBoot ⬆️
+- ###  ✔️ SpringMVC ⬆️
 - #### ✔️ Dependency Injection 
 - #### ✔️ Inversion of Control
 - #### ✔️ Spring JDBC Template ⬆️
 - #### ✔️ Working demo with JDBC Template ⬆️
 - #### ✔️ Concepts of Aspect Orienrted Programming ⬆️
 - #### ✔️ SpringAOP ⬆️
-- ##   🟡 Spring Boot
+- #### ✔️ Servlet Filters and Spring Interceptors ⬆️
 - #### ✔️ Spring Web App Working Demo
 - #### ✔️ Connecting Web App to mySQL Database with JPA
-  ##   🟡 MyBatis ⬆️ 
+  ##   ✔️ MyBatis ⬆️ 
 - #### ✔️ Working demo connecting to database with MyBatis ⬆️
-- #### ✔️ Annotation Mapping
-- #### ❌ Add GET, POST, PUT, DELETE to Demo
+- #### ✔️ Annotation Mapping ⬆️
 - #### ❌ XML Mapping
   ##   ❌ ctripcorp Apollo
   ##   MISC
 - #### 🟡 DAO Pattern ⬆️
+- #### ❌ http Protocol revision
+- #### ❌ Apache Tomcat revision
+- #### 
 <!---
 theodoretsai/theodoretsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
