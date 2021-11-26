@@ -1,4 +1,4 @@
-- # 👋 蔡雨廷 Theodore Ts'ai
+# 👋 蔡雨廷 Theodore Ts'ai
 
 #### Backend Java Engineer at Yeahmobi
 
