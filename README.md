@@ -1,6 +1,9 @@
 - # 👋 蔡雨廷 Theodore Ts'ai
 
-- ### 📫 Work: theodore.cai@yeahmobi.com / School: yuting.cai@mail.polimi.it / Personal: yut1996@gmail.com
+- ## 📫 
+- ### Work: theodore.cai@yeahmobi.com 
+- ### School: yuting.cai@mail.polimi.it
+- ### Personal: yut1996@gmail.com
 <!-- 
 
   ## ✔️ Done 🟡 In Progress ❌ Unstarted ⬆️ Updated since last week 
